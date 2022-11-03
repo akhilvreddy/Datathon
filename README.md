@@ -30,3 +30,5 @@ misaal did this!
 
 what are we going to do: 
 - import all of our data into our jupyter notebook
+- do head to see a little bit of it
+- hella graphs (look for outliers)
