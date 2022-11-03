@@ -11,6 +11,8 @@ https://academy.datawrapper.de/article/316-live-update-chart-with-json
 
 https://www.youtube.com/watch?v=9OtMgoIr6mk
 
+https://www.w3schools.com/js/js_graphics_chartjs.asp
+
 
 
 # Gameplan
@@ -24,8 +26,6 @@ https://www.youtube.com/watch?v=9OtMgoIr6mk
 - include credits
 - (this has to be at the top) but add license and shields at the top
 - https://shields.io/
-
-misaal did this!
 
 
 what are we going to do: 
