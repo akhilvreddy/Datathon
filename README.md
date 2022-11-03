@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=9OtMgoIr6mk
 
 https://www.w3schools.com/js/js_graphics_chartjs.asp
 
+https://www.stat.berkeley.edu/~spector/s133/Class.html
 
 # Gameplan
 
@@ -38,6 +39,10 @@ Data Preparation:
 
 ML/DL
 - do regression/classification(ML/DL)
+- Regression 
+-   Polynomial, 
+- Classification
+-   Logistical, Random Forest 
 - NN(PyTorch)
 
 Data Visualization
@@ -50,4 +55,4 @@ Steps:
 - Visualize Errthing
 - Scatter, Histogram
 - Clean data  
--   thing
+- 
