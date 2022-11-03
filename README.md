@@ -36,4 +36,5 @@ what are we going to do:
 - do regression (logistical regerssion)
 - convert it to json
 - try chart js
-- 
+- put everything into sql
+- sql querrries
