@@ -48,6 +48,6 @@ Steps:
 - Load data into SQL & Python 
 - Preview Data 
 - Visualize Errthing
--   Scatter, Histogram
-- Clean data
--  Outliers, NaNs, etc.   
+- Scatter, Histogram
+- Clean data  
+-   thing
