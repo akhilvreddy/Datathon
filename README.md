@@ -8,3 +8,18 @@
 ## Other stuff
 
 https://academy.datawrapper.de/article/316-live-update-chart-with-json
+
+
+
+
+# Gameplan
+
+- Step 1: Quick intro of who we are, why are we doing this, and what we hope to get out of it. 
+- Project's Title
+- Project Description
+- Table of Contents
+- How to install and run the project
+- can they input their own source of data?
+- include credits
+- (this has to be at the top) but add license and shields at the top
+- https://shields.io/
