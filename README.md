@@ -13,7 +13,6 @@ https://www.youtube.com/watch?v=9OtMgoIr6mk
 
 https://www.w3schools.com/js/js_graphics_chartjs.asp
 
-https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 # Gameplan
 
@@ -33,8 +32,22 @@ what are we going to do:
 - do head to see a little bit of it
 - hella graphs (look for outliers)
 
-- do regression (logistical regerssion)
-- convert it to json
-- try chart js
-- put everything into sql
-- sql querrries
+Data Preparation:
+- SQL 
+- Python(Pandas)
+
+ML/DL
+- do regression/classification(ML/DL)
+- NN(PyTorch)
+
+Data Visualization
+- Tablaeu
+- Chart js 
+
+Steps:
+- Load data into SQL & Python 
+- Preview Data 
+- Visualize Errthing
+-   Scatter, Histogram
+- Clean data
+-  Outliers, NaNs, etc.   
