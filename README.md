@@ -9,6 +9,7 @@
 
 https://academy.datawrapper.de/article/316-live-update-chart-with-json
 
+https://www.youtube.com/watch?v=9OtMgoIr6mk
 
 
 
