@@ -26,3 +26,7 @@ https://www.youtube.com/watch?v=9OtMgoIr6mk
 - https://shields.io/
 
 misaal did this!
+
+
+what are we going to do: 
+- import all of our data into our jupyter notebook
