@@ -45,11 +45,11 @@ ML/DL
 - Regression 
 -   Polynomial
 - Classification
-    Naive Bayes classifier
-    Decision Trees
-    Support Vector Machine
-    Random Forest
-    K- Nearest Neighbors
+-     Naive Bayes classifier
+-     Decision Trees
+-     Support Vector Machine
+-     Random Forest
+-     K- Nearest Neighbors
 - NN(PyTorch)
 
 Data Visualization
