@@ -68,5 +68,4 @@ Steps:
 - Load data into SQL & Python 
 - Preview Data 
 - Visualize Errthing
-- Scatter, Histogram
 - Clean data  
