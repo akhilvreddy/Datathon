@@ -19,6 +19,11 @@ Training v. Test
 Data Cleaning
 - https://www.scribbr.com/methodology/data-cleansing/
 
+Data Visualization in Tablaeu
+- https://towardsdatascience.com/tableau-visualizations-dc9e544dc9a8#:~:text=Creating%20charts%20The%20simple%20way%20to%20do%20it,then%20automatically%20creates%20a%20bar%20chart%20for%20us.
+- https://blog.hubspot.com/marketing/types-of-graphs-for-data-visualization
+
+
 ## Other stuff
 
 https://academy.datawrapper.de/article/316-live-update-chart-with-json
