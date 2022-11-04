@@ -44,14 +44,6 @@ Data Preparation:
 
 ML/DL
 - do regression/classification(ML/DL)
-- Regression 
--   Polynomial
-- Classification
--     Naive Bayes classifier
--     Decision Trees
--     Support Vector Machine
--     Random Forest
--     K- Nearest Neighbors
 - NN(PyTorch)
 
 Data Visualization
