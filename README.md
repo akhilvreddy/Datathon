@@ -10,6 +10,9 @@ Classificaiton Methods
 Regression Methods 
 - https://www.statology.org/types-of-regression/
 
+Uses of NN
+- https://www.sas.com/en_us/insights/analytics/neural-networks.html#:~:text=As%20a%20result%2C%20neural%20networks%20can%20improve%20decision,bankruptcy%20and%20bond%20ratings.%207%20Robotic%20control%20systems.
+
 ## Other stuff
 
 https://academy.datawrapper.de/article/316-live-update-chart-with-json
