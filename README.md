@@ -40,7 +40,7 @@ Data Preparation:
 ML/DL
 - do regression/classification(ML/DL)
 - Regression 
--   Polynomial, 
+-   Polynomial
 - Classification
 -   Logistical, Random Forest 
 - NN(PyTorch)
