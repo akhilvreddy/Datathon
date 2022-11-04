@@ -7,6 +7,8 @@
 Classificaiton Methods
 - https://www.educba.com/classification-algorithms/
 
+Regression Methods 
+- https://www.statology.org/types-of-regression/
 
 ## Other stuff
 
