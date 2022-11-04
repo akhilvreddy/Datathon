@@ -74,3 +74,12 @@ Steps:
 2) data analysis visualization and methodology 
 3) coonclusino
 4) reflection and improvements
+
+
+# TEMP Project Name
+
+Contributors: 
+- Akhil Reddy
+  - Hey, I am a 
+- Aadya Gadkari
+- Misaal Singh
