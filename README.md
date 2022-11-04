@@ -78,8 +78,7 @@ Steps:
 
 # TEMP Project Name
 
-Contributors: 
-- Akhil Reddy
-  - Hey, I am a 
-- Aadya Gadkari
-- Misaal Singh
+### Contributors: 
+Akhil Reddy
+Aadya Gadkari
+Misaal Singh
