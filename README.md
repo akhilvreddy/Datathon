@@ -60,7 +60,7 @@ ML/DL
 - do regression/classification(ML/DL)
 - NN(PyTorch)
 
-Data Visualization
+Data Visualization:
 - Tablaeu
 - Chart js 
 
