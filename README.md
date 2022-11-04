@@ -55,8 +55,3 @@ Steps:
 - Visualize Errthing
 - Scatter, Histogram
 - Clean data  
-- 
-
-https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
-
-## aadya is in charge of tableau and everything
