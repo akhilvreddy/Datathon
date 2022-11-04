@@ -16,6 +16,9 @@ Uses of NN
 Training v. Test
 - https://en.speechocean.com/Cy/379.html#:~:text=The%20training%20data%20teaches%20an%20algorithm%20to%20identify,So%20that%20it%20can%20accurately%20predict%20the%20results.
 
+Data Cleaning
+- https://www.scribbr.com/methodology/data-cleansing/
+
 ## Other stuff
 
 https://academy.datawrapper.de/article/316-live-update-chart-with-json
