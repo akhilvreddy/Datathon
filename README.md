@@ -45,7 +45,11 @@ ML/DL
 - Regression 
 -   Polynomial
 - Classification
--   Logistical, Random Forest 
+    Naive Bayes classifier
+    Decision Trees
+    Support Vector Machine
+    Random Forest
+    K- Nearest Neighbors
 - NN(PyTorch)
 
 Data Visualization
