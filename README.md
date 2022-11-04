@@ -1,4 +1,4 @@
-# Datathon
+# Rutgers BITS Fall 2022 Datathon
 
 - https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python#:~:text=The%20process%20of%20finding%20trends,%2C%20Seaborn%2C%20Plotly%2C%20etc.
 
@@ -78,7 +78,18 @@ Steps:
 
 # TEMP Project Name
 
+### Licenses
+
+### Features
+
+### Next steps
+
+### What we learned
+
 ### Contributors: 
 Akhil Reddy
 Aadya Gadkari
 Misaal Singh
+
+## Project Start
+
