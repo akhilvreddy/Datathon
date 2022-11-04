@@ -4,6 +4,8 @@
 
 - https://www.geeksforgeeks.org/data-visualization-with-python/
 
+- https://www.educba.com/classification-algorithms/
+
 
 ## Other stuff
 
