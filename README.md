@@ -70,4 +70,7 @@ Steps:
 - Visualize Errthing
 - Clean data  
 
-i am a fruit
+1) research questions
+2) data analysis visualization and methodology 
+3) coonclusino
+4) reflection and improvements
