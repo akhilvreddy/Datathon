@@ -103,7 +103,7 @@ With all this in mind, here is our project!
 ![github repo badge: Built On](https://img.shields.io/badge/Built%20On-VSCode-181717?color=blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-Statistical infrences based on technology.
+Statistical infrences based on today's technology.
 
 ## Features
 - dfs
