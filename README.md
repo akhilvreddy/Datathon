@@ -156,8 +156,8 @@ Decision trees are going to help us understand if a country is generally happy/s
 
 
 ### Correlation Dataset
-- Co2
-- Alcohol
+- **Happiness vs Alcohol Consumption**: The histogram of countries happienss vs. alcohol consumption shows us that there is almost a very level distribution between a country's drinking habits and the happiness of a country. Other than the fact that there is a large peak with lower happiness and a small peak corresponding with higher happiness, there is not much correlation. We also see that the *r value* for the regression in this plot is 0.56, corresponding to very low confidence. We can say that alcohol consumption **does not** affect a country's general happiness.
+- 
 - 
 
 ## Conclusions & Answering our Questions
