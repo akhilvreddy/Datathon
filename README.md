@@ -97,7 +97,7 @@ We kept these questions in mind while doing our project but also let our imagina
 
 With all this in mind, here is our project!
 
->All of the data we used can be found [here.](http://www.google.com)
+>All of the data we used can be found [here.](https://github.com/akhilvreddy/Datathon/tree/main/Excel%20%26%20CSV/Original%20CSV%20Files)
 
 # Techfer
 ![github repo badge: Built With](https://img.shields.io/badge/Using-Python-181717?color=blue)
