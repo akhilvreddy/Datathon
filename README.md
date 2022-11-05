@@ -88,7 +88,7 @@ After brainstorming, we wanted to answer the following questions used data visua
 ```
 1)  Does having more money (GDP/capita) and better life conditions lead to more happiness?
 2)  
-3)  Is there a correlation between __ and happiness? How does one affect the other and vice versa?
+3)  Is there a correlation between alcohol consumption and happiness? How does one affect the other and vice versa?
 ```
 
 We kept these questions in mind while doing our project but also let our imagination fly sometimes.
