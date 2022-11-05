@@ -156,9 +156,15 @@ Decision trees are going to help us understand if a country is generally happy/s
 
 
 ### Correlation Dataset
-- one
-- two 
-- three
+- Co2
+- Alcohol
+- 
 
-### Conclusions & Answering our Questions
+## Conclusions & Answering our Questions
+Here, we want to answer the three questions that we had in the beginning of the project. We'll go over them one by one.
 
+### Question 1
+
+### Question 2
+
+### Question 3
