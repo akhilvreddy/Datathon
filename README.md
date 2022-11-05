@@ -86,9 +86,9 @@ Since happiness is a pretty broad topic, we wanted to cross-correlate with anoth
 After brainstorming, we wanted to answer the following questions used data visualization and statistical analysis.
 
 ```
-1)  Does having more money and better life conditions lead to more happiness?
+1)  Does having more money (GDP/capita) and better life conditions lead to more happiness?
 2)  
-3)  Correlation dataset question
+3)  Is there a correlation between __ and happiness? How does one affect the other and vice versa?
 ```
 
 We kept these questions in mind while doing our project but also let our imagination fly sometimes.
@@ -106,9 +106,9 @@ With all this in mind, here is our project!
 Statistical infrences based on today's technology.
 
 ## Features
-- dfs
-- df
-- df
+- Plot visualizations using *matplotlib* and *seaborn*.
+- *Tableau* visualiation to show comparisons by country.
+- Machine learning for classification between...
 
 ## Contributors 
 [Akhil Reddy](https://www.linkedin.com/in/akhilvreddy/) is a junior studying Computer Engineering. 
