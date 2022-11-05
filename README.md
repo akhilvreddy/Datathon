@@ -121,10 +121,10 @@ Infrences based on technology.
 
 ## Project Itinerary
 
-### Data Cleaning 
-- go from csv to excel back to csv
-- how is SQL being used here
-- fianlly get a clean data set that can be put into python for more analysis
+### Data Cleaning & Sanitation
+- When we first got the CSV files form Kaggle, it was unstructured and very messy. We then took these files and loaded into excel to get a better sense of what the data looks like. We were able to remove some basic lines which didn't follow the proper formatting.
+- We used MySQL to load the data into a .db file and wrote some querries in order to delete some columns and rows.
+- This finally gave us a clean dataset that we could import into python using pandas. 
 
 ### Tableau Data Visualization
 - how was tableau used
@@ -132,21 +132,23 @@ Infrences based on technology.
 - how is the visuals of tableau helping us
 
 ### Python-based Visualization
-- imported into python using pandas
-- did the basic plots
-- the stuff we have here with the cleaned data is lining up with what we have in tableau
+- In jupyter notebook, we imported the cleaned CSV file using pandas's *read_csv* function.
+- We plotted and did regression for the score of happiness vs all the other country qualities.
+- Got good results since all the data we had was lining up with what we had in tableau.
 
 ### Regression in Python
-- put some regression on some data
-- what does it tell us? 
-- what can we do with it
+- How did we do regression
+- What does error distance tell us
+- Quadratic regression
 
 ### Machine Learning
 - i have no clue bruh
+- 
 
 ### Correlation Dataset
 - one
 - two 
 - three
 
-### Conclusions
+### Conclusions & Answering our Questions
+
