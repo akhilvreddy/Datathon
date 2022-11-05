@@ -1,5 +1,7 @@
 # Rutgers BITS Fall 2022 Datathon
 
+<!---
+
 - https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python#:~:text=The%20process%20of%20finding%20trends,%2C%20Seaborn%2C%20Plotly%2C%20etc.
 
 - https://www.geeksforgeeks.org/data-visualization-with-python/
@@ -74,7 +76,22 @@ Steps:
 2) data analysis visualization and methodology 
 3) coonclusino
 4) reflection and improvements
+-->
+When looking for datasets, we wanted a set that would contain very useful and tangible data. However, we did not want something which had too many lines of data in the .csv file becuase none of us had laptops with huge computing power. 
 
+We ended up going with the **happiness data set** because it talks about things that we are interested in and seemed like it waas a dataset that could be used to answer a lot of questions. 
+
+Since happiness is a pretty broad topic, we wanted to cross-correlate with another dataset to see similarities and differences. 
+
+After brainstorming, we wanted to answer the following questions used data visualization and statistical analysis.
+
+```
+1)  Does having more money and better life conditions lead to more happiness?
+2)  
+3)  Correlation dataset question
+```
+
+We kept these questions in mind while doing our project but also let our imagination fly sometimes.
 
 With all this in mind, here is our project!
 
@@ -86,9 +103,12 @@ With all this in mind, here is our project!
 ![github repo badge: Built On](https://img.shields.io/badge/Built%20On-VSCode-181717?color=blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-Infrences based on technology.
+Statistical infrences based on technology.
 
 ## Features
+- dfs
+- df
+- df
 
 ## Contributors 
 [Akhil Reddy](https://www.linkedin.com/in/akhilvreddy/) is a junior studying Computer Engineering. 
@@ -97,7 +117,7 @@ Infrences based on technology.
 
 [Misaal Singh](https://www.linkedin.com/in/misaal-singh-531a1018b/) is a junior studying Statistics & BAIT.
 
-## Starting the Project
+## Project Itinerary
 
 ### Data Cleaning 
 - go from csv to excel back to csv
@@ -115,9 +135,16 @@ Infrences based on technology.
 - the stuff we have here with the cleaned data is lining up with what we have in tableau
 
 ### Regression in Python
+- put some regression on some data
+- what does it tell us? 
+- what can we do with it
 
-### 
+### Machine Learning
+- i have no clue bruh
 
+### Correlation Dataset
+- one
+- two 
+- three
 
-
-### 
+### Conclusions
