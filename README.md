@@ -79,8 +79,12 @@ Steps:
 # Techfer
 Infrences based on technology.
 
-### Licenses
+![github repo badge: Built With](https://img.shields.io/badge/Using-Python-181717?color=blue)
+![github repo badge: Built With](https://img.shields.io/badge/Using-Excel-181717?color=blue)
+![github repo badge: Built With](https://img.shields.io/badge/Using-SQL-181717?color=blue)
+![github repo badge: Built With](https://img.shields.io/badge/Using-Tableau-181717?color=blue)
 ![github repo badge: Built On](https://img.shields.io/badge/Built%20On-VSCode-181717?color=blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ### Features
 
@@ -93,4 +97,4 @@ Akhil Reddy
 Aadya Gadkari
 Misaal Singh
 
-## Project Start
+## Starting the Project
