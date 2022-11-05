@@ -81,6 +81,8 @@ When looking for datasets, we wanted a set that would contain very useful and ta
 
 We ended up going with the [**happiness data set**](https://www.kaggle.com/datasets/unsdsn/world-happiness) because it talks about things that we are interested in and seemed like it waas a dataset that could be used to answer a lot of questions. 
 
+To cross-correlate we wanted to use two other datasets that could have partial causation to happiness. We decided to work with [Carbon Emissions](https://www.kaggle.com/datasets/ankanhore545/carbon-dioxide-emissions-of-the-world) globally as well as [Alcohol Consumption](https://www.kaggle.com/datasets/pralabhpoudel/alcohol-consumption-by-country) globally.
+
 Since happiness is a pretty broad topic, we wanted to cross-correlate with another dataset to see similarities and differences. 
 
 After brainstorming, we wanted to answer the following questions used data visualization and statistical analysis.
