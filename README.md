@@ -76,6 +76,8 @@ Steps:
 4) reflection and improvements
 
 
+With all this in mind, here is our project!
+
 # Techfer
 ![github repo badge: Built With](https://img.shields.io/badge/Using-Python-181717?color=blue)
 ![github repo badge: Built With](https://img.shields.io/badge/Using-Excel-181717?color=blue)
@@ -99,4 +101,23 @@ Infrences based on technology.
 
 ### Data Cleaning 
 - go from csv to excel back to csv
-- 
+- how is SQL being used here
+- fianlly get a clean data set that can be put into python for more analysis
+
+### Tableau Data Visualization
+- how was tableau used
+- what are we trying to get from this
+- how is the visuals of tableau helping us
+
+### Python-based Visualization
+- imported into python using pandas
+- did the basic plots
+- the stuff we have here with the cleaned data is lining up with what we have in tableau
+
+### Regression in Python
+
+### 
+
+
+
+### 
