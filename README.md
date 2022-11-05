@@ -79,21 +79,23 @@ Steps:
 -->
 When looking for datasets, we wanted a set that would contain very useful and tangible data. However, we did not want something which had too many lines of data in the .csv file becuase none of us had laptops with huge computing power. 
 
-We ended up going with the **happiness data set** because it talks about things that we are interested in and seemed like it waas a dataset that could be used to answer a lot of questions. 
+We ended up going with the [**happiness data set**](https://www.kaggle.com/datasets/unsdsn/world-happiness) because it talks about things that we are interested in and seemed like it waas a dataset that could be used to answer a lot of questions. 
 
 Since happiness is a pretty broad topic, we wanted to cross-correlate with another dataset to see similarities and differences. 
 
 After brainstorming, we wanted to answer the following questions used data visualization and statistical analysis.
 
 ```
-1)  Does having more money and better life conditions lead to more happiness?
+1)  Does having more money (GDP/capita) and better life conditions lead to more happiness?
 2)  
-3)  Correlation dataset question
+3)  Is there a correlation between __ and happiness? How does one affect the other and vice versa?
 ```
 
 We kept these questions in mind while doing our project but also let our imagination fly sometimes.
 
 With all this in mind, here is our project!
+
+>All of the data we used can be found [here.](http://www.google.com)
 
 # Techfer
 ![github repo badge: Built With](https://img.shields.io/badge/Using-Python-181717?color=blue)
@@ -103,12 +105,12 @@ With all this in mind, here is our project!
 ![github repo badge: Built On](https://img.shields.io/badge/Built%20On-VSCode-181717?color=blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-Statistical infrences based on today's technology.
+Infrences based on technology.
 
 ## Features
-- dfs
-- df
-- df
+- Plot visualizations using *matplotlib* and *seaborn*.
+- *Tableau* visualiation to show comparisons by country.
+- Machine learning for classification between...
 
 ## Contributors 
 [Akhil Reddy](https://www.linkedin.com/in/akhilvreddy/) is a junior studying Computer Engineering. 
