@@ -76,9 +76,11 @@ Steps:
 4) reflection and improvements
 
 
-# TEMP Project Name
+# Techfer
+Infrences based on technology.
 
 ### Licenses
+![github repo badge: Built On](https://img.shields.io/badge/Built%20On-VSCode-181717?color=blue)
 
 ### Features
 
