@@ -87,7 +87,7 @@ After brainstorming, we wanted to answer the following questions used data visua
 
 ```
 1)  Does having more money (GDP/capita) and better life conditions lead to more happiness?
-2)  
+2)  For countries without clear happiness scores, is there a way to predict/classify them?
 3)  Is there a correlation between alcohol consumption and happiness? How does one affect the other and vice versa?
 ```
 
