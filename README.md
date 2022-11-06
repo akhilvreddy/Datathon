@@ -114,10 +114,7 @@ Machine Learning techniques have been used excessively to statistically predict 
 
 ### Next Steps
 
-The next steps for the project can be getting a hollistic understanding of how all the countries in the world rank in happiness. The neural network can be made in order to output more country's happiness score and fill in the gaps between places that do not have a score. We will be able to use the random forest decision trees to categorize more countries. 
-
-On the analysis side, we hope to do more statistical testing on some of the data. Running tests such as ____ would be really helpful because it would tell us the ways the data is correlated. 
-
-On a software side, we hope to expand the reach of this project. The goal would be to generalize the testing and data analysis to any generic dataset so that someone could clone this repository in the future and copy the path of their own project and have multiple dashboards and plots on their data. 
-
+The next steps for the project can be getting a holistic understanding of how all the countries in the world rank in happiness. The neural network can be made in order to output more country's happiness scores and fill in the gaps between places that do not have a score. We will be able to use the random forest decision trees to categorize more countries.
+On the analysis side, we hope to do more statistical testing on some of the data. Running tests such as pearson correlation would be really helpful because it would tell us the ways the data is correlated.
+On the software side, we hope to expand the reach of this project. The goal would be to generalize the testing and data analysis to any generic dataset so that someone could clone this repository in the future and copy the path of their own project and have multiple dashboards and plots on their data.
 In conclusion, we had a great time analyzing and doing a lot of different analysis with data. We loved how this project made us use multiple different tools together in order to get to the final goal. In the future, given a large, messy CSV file, we won't be afraid to tackle it!
