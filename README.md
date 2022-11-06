@@ -7,6 +7,9 @@ What they are grading us on:
 3) coonclusion
 4) reflection and improvements
 -->
+https://youtu.be/TCiNaajMAC4
+
+
 We started off our project by looking for data sets to work with. We wanted to be able to answer relevant and interesting questions with tangible data. Something we had to keep in mind was picking data sets that did not have too many lines of data in the .csv file because we did not have laptops with a lot of computing power.
 
 We ended up going with the [**Global Happiness Score**](https://www.kaggle.com/datasets/unsdsn/world-happiness) dataset because we are genuinely interested in the happiness of people around the world and the different factors that affect it. 
