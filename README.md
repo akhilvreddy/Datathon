@@ -60,19 +60,22 @@ Infrences based on technology.
 ## Project Itinerary
 
 ### Data Cleaning & Sanitation - [jump to file](https://github.com/akhilvreddy/Datathon/tree/main/Excel%20%26%20CSV) 
-- When we first got the CSV files form Kaggle, it was unstructured and very messy. We then took these files and loaded into excel to get a better sense of what the data looks like. We were able to remove some basic lines which didn't follow the proper formatting.
-- We used SQL Lite to load the data into a .db file and wrote some querries in order to delete some columns and rows.
-- This finally gave us a clean dataset that we could import into python using pandas. 
+- When we first got the CSV files from Kaggle, it was unstructured and very messy. We took these files and loaded them into excel to get a better sense of what the data looked like. We were able to remove some basic lines which didn't follow the proper formatting.
+- Then we used MySQL to load the data into a .db file and wrote queries in order to delete some columns and rows.
+- This finally gave us a clean dataset that we could import into python using pandas.
+
 
 ### Tableau Data Visualization - [jump to file](https://github.com/akhilvreddy/Datathon/tree/main/Tableau)
-- Ultized heat maps to visualize the which countries report less happiness and which ones report higher.
-- Charted the comparisons between Alocohol and Life Expectancy in order to find correlation.
-- Looked into Corruption vs Freedom as a scatter plot in order to prove no correlation.
+- One way to visualize the data was using Tableau. First we utilized heat maps to see which countries report less happiness and which ones report higher. We also used a heat map to see GDP per capita. 
+- Then, we charted the comparisons between Alcohol and Life Expectancy in order to find correlation. Additionally, we also vi
+sualized Happiness and Social Support to find correlation. 
+- Lastly, we looked into Corruption and Freedom as a scatter plot in order to prove no correlation.
+
 
 ### Python-based Visualization - [jump to file](https://github.com/akhilvreddy/Datathon/blob/main/Python%20%26%20Jupyter%20Notebook/Main_Python_File.ipynb)
 - In jupyter notebook, we imported the cleaned CSV file using pandas's *read_csv* function.
 - We plotted and did regression for the score of happiness vs all the other country qualities.
-- Got good results since all the data we had was lining up with what we had in tableau.
+- We got good results since all the data we had was lining up with what we had in tableau.
 
 ### Regression in Python - [jump to file](https://github.com/akhilvreddy/Datathon/blob/main/Python%20%26%20Jupyter%20Notebook/Main_Python_File.ipynb)
 - We did linear regression within a certain confidence interval for all of the plots that we had.
