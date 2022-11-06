@@ -71,12 +71,12 @@ Infrences based on technology.
 - Charted the comparisons between Alocohol and Life Expectancy in order to find correlation.
 - Looked into Corruption vs Freedom as a scatter plot in order to prove no correlation.
 
-### Python-based Visualization - [jump to file]()
+### Python-based Visualization - [jump to file](https://github.com/akhilvreddy/Datathon/blob/main/Python%20%26%20Jupyter%20Notebook/Main_Python_File.ipynb)
 - In jupyter notebook, we imported the cleaned CSV file using pandas's *read_csv* function.
 - We plotted and did regression for the score of happiness vs all the other country qualities.
 - Got good results since all the data we had was lining up with what we had in tableau.
 
-### Regression in Python - [jump to file]()
+### Regression in Python - [jump to file](https://github.com/akhilvreddy/Datathon/blob/main/Python%20%26%20Jupyter%20Notebook/Main_Python_File.ipynb)
 - How did we do regression
 - What does error distance tell us
 - Quadratic regression
