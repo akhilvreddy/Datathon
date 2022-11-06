@@ -7,13 +7,11 @@ What they are grading us on:
 3) coonclusion
 4) reflection and improvements
 -->
-When looking for datasets, we wanted a set that would contain very useful and tangible data. However, we did not want something which had too many lines of data in the .csv file becuase none of us had laptops with huge computing power. 
+We started off our project by looking for data sets to work with. We wanted to be able to answer relevant and interesting questions with tangible data. Something we had to keep in mind was picking data sets that did not have too many lines of data in the .csv file because we did not have laptops with a lot of computing power.
 
-We ended up going with the [**Global Happiness Score**](https://www.kaggle.com/datasets/unsdsn/world-happiness) dataset because it talks about things that we are interested in and seemed like it waas a dataset that could be used to answer a lot of questions. 
+We ended up going with the [**Global Happiness Score**](https://www.kaggle.com/datasets/unsdsn/world-happiness) dataset because we are genuinely interested in the happiness of people around the world and the different factors that affect it. 
 
-To cross-correlate we wanted to use two other datasets that could have partial causation to happiness. We decided to work with [**Carbon Emissions**](https://www.kaggle.com/datasets/ankanhore545/carbon-dioxide-emissions-of-the-world) globally as well as [**Alcohol Consumption**](https://www.kaggle.com/datasets/pralabhpoudel/alcohol-consumption-by-country) globally.
-
-Since happiness is a pretty broad topic, we wanted to cross-correlate with another dataset to see similarities and differences. 
+Since happiness is a pretty broad topic, we wanted to cross-correlate with two other dataset to see similarities/differences and have a partial causation to happiness. We decided to work with [**Carbon Emissions**](https://www.kaggle.com/datasets/ankanhore545/carbon-dioxide-emissions-of-the-world) globally as well as [**Alcohol Consumption**](https://www.kaggle.com/datasets/pralabhpoudel/alcohol-consumption-by-country) globally.
 
 After brainstorming, we wanted to answer the following questions used data visualization and statistical analysis.
 
