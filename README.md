@@ -81,12 +81,13 @@ Infrences based on technology.
 - What does error distance tell us
 - Quadratic regression
 
-### Machine Learning (Decision Trees)
+### Machine Learning (Decision Trees & Random Forest)
 An issue we ran into while understanding the total data sets is how some countries do not have much data about their happiness score and other such things. This might be because there is not much of a way to get good data from these countries. A way we could get tentative data from a country which doesn’t have any data is by using a decision tree. This could tell us if a country is happy or not just based on the qualities about the country like GDP, Population, etc. 
 
 Decision trees are going to help us understand if a country is generally happy/sad and the future trajectory of it.
  
  ### Machine Learning (Convolution Neural Network)
+When we were going through the Random Forest of multiple Decision Trees, we ran into the issue of not getting a specific value. For example, the Decision Trees only told us whether a tentative country was going to be either generally happy or not. However, we wanted to do better than that. We wanted to use some machine learning techniques that would help us get us a estimated score. This would be nice since we could fill in the gaps to countries that do not have a score. The way we did this was by using PyTorch.
 
 
 ### Correlation Dataset
