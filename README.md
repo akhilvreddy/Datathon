@@ -61,7 +61,7 @@ Infrences based on technology.
 
 ## Project Itinerary
 
-### Data Cleaning & Sanitation - [jump to file]() 
+### Data Cleaning & Sanitation - [jump to file](https://github.com/akhilvreddy/Datathon/tree/main/Excel%20%26%20CSV) 
 - When we first got the CSV files form Kaggle, it was unstructured and very messy. We then took these files and loaded into excel to get a better sense of what the data looks like. We were able to remove some basic lines which didn't follow the proper formatting.
 - We used MySQL to load the data into a .db file and wrote some querries in order to delete some columns and rows.
 - This finally gave us a clean dataset that we could import into python using pandas. 
