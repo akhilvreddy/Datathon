@@ -61,37 +61,37 @@ Infrences based on technology.
 
 ## Project Itinerary
 
-### Data Cleaning & Sanitation
+### Data Cleaning & Sanitation - [jump to file]() 
 - When we first got the CSV files form Kaggle, it was unstructured and very messy. We then took these files and loaded into excel to get a better sense of what the data looks like. We were able to remove some basic lines which didn't follow the proper formatting.
 - We used MySQL to load the data into a .db file and wrote some querries in order to delete some columns and rows.
 - This finally gave us a clean dataset that we could import into python using pandas. 
 
-### Tableau Data Visualization
+### Tableau Data Visualization - [jump to file]()
 - Ultized heat maps to visualize the which countries report less happiness and which ones report higher.
 - Charted the comparisons between Alocohol and Life Expectancy in order to find correlation.
 - Looked into Corruption vs Freedom as a scatter plot in order to prove no correlation.
 
-### Python-based Visualization
+### Python-based Visualization - [jump to file]()
 - In jupyter notebook, we imported the cleaned CSV file using pandas's *read_csv* function.
 - We plotted and did regression for the score of happiness vs all the other country qualities.
 - Got good results since all the data we had was lining up with what we had in tableau.
 
-### Regression in Python
+### Regression in Python - [jump to file]()
 - How did we do regression
 - What does error distance tell us
 - Quadratic regression
 
-### Machine Learning (Decision Trees & Random Forest)
+### Machine Learning (Decision Trees & Random Forest) - [jump to file]()
 An issue we ran into while understanding the total data sets is how some countries do not have much data about their happiness score and other such things. This might be because there is not much of a way to get good data from these countries. A way we could get tentative data from a country which doesn’t have any data is by using a decision tree. This could tell us if a country is happy or not just based on the qualities about the country like GDP, Population, etc. 
 
 Decision trees are going to help us understand if a country is generally happy/sad and the future trajectory of it.
  
- ### Machine Learning (Convolution Neural Network)
+ ### Machine Learning (Convolution Neural Network) - [jump to file]()
 When we were going through the Random Forest of multiple Decision Trees, we ran into the issue of not getting a specific value. For example, the Decision Trees only told us whether a tentative country was going to be either generally happy or not. However, we wanted to do better than that. We wanted to use some machine learning techniques that would help us get us a estimated score. This would be nice since we could fill in the gaps to countries that do not have a score. The way we did this was by using PyTorch.
 
 
-### Correlation Dataset
-For both of these new datasets, we loaded them into pandas using 
+### Correlation Dataset - [jump to file]()
+For both of these new datasets, we loaded them into pandas and then merged within pandas. 
 
 - **Happiness vs Alcohol Consumption**: The histogram of countries happienss vs. alcohol consumption shows us that there is almost a very level distribution between a country's drinking habits and the happiness of a country. Other than the fact that there is a large peak with lower happiness and a small peak corresponding with higher happiness, there is not much correlation. We also see that the *r value* for the regression in this plot is 0.56, corresponding to very low confidence. We can say that alcohol consumption **does not** affect a country's general happiness.
 
