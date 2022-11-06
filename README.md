@@ -110,6 +110,7 @@ However, of the metrics we measured alcohol consumption of a country holds a low
 ### Question 3
 
 ### Question 4
+Machine Learning techniques have been used excessively to statistically predict outcomes based on past data. We used this concept to predict whether a country was happy or not. For this we used classification which groups labeled data into subsets in order to predict categorical data. The classification method that we felt would best predict this model is a random forest classifier which creates several decision trees and averages their output to produce a final output. From this our model predicted outcomes at a .977 percent accuracy rate, which can conclude that we can determine whether they are happy or not.
 
 ### Next Steps
 
