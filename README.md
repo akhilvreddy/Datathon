@@ -41,9 +41,9 @@ With all this in mind, here is our project!
 Infrences based on technology.
 
 ## Features
-- Plot visualizations using *matplotlib* and *seaborn*.
-- *Tableau* visualiation to show comparisons by country.
-- Python visualization for regression and histogram analysis.
+- Plot visualizations using *matplotlib* and *seaborn*
+- *Tableau* visualiation to show comparisons by country
+- Python visualization for regression and histogram analysis
 - Linear Regression in Python to draw relationships between categories
 - Cross correlation between other datasets
 - Inferential Statistics to determine if different categories have an effect on the happiness score
