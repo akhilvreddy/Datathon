@@ -51,11 +51,11 @@ Infrences based on technology.
 - Final conclusions between what we got
 
 ## Contributors 
-[Akhil Reddy](https://www.linkedin.com/in/akhilvreddy/) is a junior studying Computer Engineering. 
+[Akhil Reddy](https://www.linkedin.com/in/akhilvreddy/) is a junior at the School of Engineering studying Computer Engineering. 
 
-[Aadya Gadkari](https://www.linkedin.com/in/aadyagadkari/) is a junior studying Biomedical Engineering.
+[Aadya Gadkari](https://www.linkedin.com/in/aadyagadkari/) is a junior at the School of Engineering studying Biomedical Engineering.
 
-[Misaal Singh](https://www.linkedin.com/in/misaal-singh-531a1018b/) is a junior studying Statistics & BAIT.
+[Misaal Singh](https://www.linkedin.com/in/misaal-singh-531a1018b/) is a junior at the Business School studying Statistics & BAIT.
 
 ## Project Itinerary
 
