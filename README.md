@@ -102,8 +102,13 @@ For both of these new datasets, we loaded them into pandas and then merged withi
 Here, we want to answer the three questions that we had in the beginning of the project. We'll go over them one by one.
 
 ### Question 1
+In this data analysis project we measured GDP/Capita, Social Support, Life Expectancy, Freedom, Corruption, and Gas Emissions and used the correlation coefficient and linear regression.
+
+Out of the metrics we measured Gas Emissions is shown to be the least correlated to the overall happiness of a country. This was determined by the correlation coefficient of .25 output from the linear regression analysis. Whereas all of the other data elements have a correlation coefficient of .8 or higher and an F-statistic of 10 or higher. This concludes that for the most part the living conditions of your country correlate towards the overall happiness of their citizens.
 
 ### Question 2
+In this study we conducted a linear regression and correlation analysis between alcohol consumption and happiness score, from this we found that the correlation coefficient of the two variables is .864 and the F-Statistic, which compares the effect that the variances of both variables have on one another, is 420.3. These metrics show that there is evidence to show that their alcohol consumption has an effect on the happiness of a country. 
+However, of the metrics we measured alcohol consumption of a country holds a lower weight on the happiness of a region, of the metrics we measured alcohol consumption holds the second lowest weight on the happiness of a region. For this metric we used a Random Forest Classifier to predict whether a country was happy or not and the model concluded that alcohol consumption held a 8.29% weight in its predictions. This shows that although alcohol consumption has a correlation towards the happiness of a region, it does not hold massive weight in determining the happiness of a region.
 
 ### Question 3
 
