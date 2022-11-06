@@ -43,11 +43,13 @@ Infrences based on technology.
 ## Features
 - Plot visualizations using *matplotlib* and *seaborn*.
 - *Tableau* visualiation to show comparisons by country.
-- Python visualization for 
-- Regression methods for 
-- Machine learning for classification between...
-- Random forest between 
-- Cross correlation between other datasets 
+- Python visualization for regression and histogram analysis.
+- Linear Regression in Python to draw relationships between categories
+- Cross correlation between other datasets
+- Inferential Statistics to determine if different categories have an effect on the happiness score
+- Random forest categorization to decide whether a tenative country is happy or not
+- Machine learning classification in order to create a model to predict happiness of countries, and find the weight each category holds on determining happiness 
+- Cross correlation between other datasets that we found on Kaggle
 - Final conclusions between what we got
 
 ## Contributors 
