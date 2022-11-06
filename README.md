@@ -66,7 +66,7 @@ Infrences based on technology.
 - We used MySQL to load the data into a .db file and wrote some querries in order to delete some columns and rows.
 - This finally gave us a clean dataset that we could import into python using pandas. 
 
-### Tableau Data Visualization - [jump to file]()
+### Tableau Data Visualization - [jump to file](https://github.com/akhilvreddy/Datathon/tree/main/Tableau)
 - Ultized heat maps to visualize the which countries report less happiness and which ones report higher.
 - Charted the comparisons between Alocohol and Life Expectancy in order to find correlation.
 - Looked into Corruption vs Freedom as a scatter plot in order to prove no correlation.
