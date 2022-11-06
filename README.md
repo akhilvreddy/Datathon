@@ -65,7 +65,7 @@ Infrences based on technology.
 - This finally gave us a clean dataset that we could import into python using pandas. 
 
 ### Tableau Data Visualization
-- how was tableau used
+- Ultized heat maps, bar graphs, scatter plots etc to visual raw data.
 - what are we trying to get from this
 - how is the visuals of tableau helping us
 
