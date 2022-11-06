@@ -77,9 +77,9 @@ Infrences based on technology.
 - Got good results since all the data we had was lining up with what we had in tableau.
 
 ### Regression in Python - [jump to file](https://github.com/akhilvreddy/Datathon/blob/main/Python%20%26%20Jupyter%20Notebook/Main_Python_File.ipynb)
-- How did we do regression
-- What does error distance tell us
-- Quadratic regression
+- We did linear regression within a certain confidence interval for all of the plots that we had.
+- Calculated the r value using the given r squared value in order to see the strength of correlation that we had. 
+- Used the f score to predict if the data that we got had statistical significance.
 
 ### Machine Learning (Decision Trees & Random Forest) - [jump to file](https://github.com/akhilvreddy/Datathon/blob/main/Machine%20Learning/RandomForest_Classfication.ipynb)
 An issue we ran into while understanding the total data sets is how some countries do not have much data about their happiness score and other such things. This might be because there is not much of a way to get good data from these countries. A way we could get tentative data from a country which doesn’t have any data is by using a decision tree. This could tell us if a country is happy or not just based on the qualities about the country like GDP, Population, etc. 
