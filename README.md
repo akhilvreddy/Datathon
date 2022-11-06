@@ -41,14 +41,16 @@ With all this in mind, here is our project!
 Infrences based on technology.
 
 ## Features
-- Plot visualizations using *matplotlib* and *seaborn*.
-- *Tableau* visualiation to show comparisons by country.
-- Python visualization for 
-- Regression methods for 
-- Machine learning for classification between...
-- Random forest between 
-- Cross correlation between other datasets 
-- Final conclusions between what we got
+- Plot visualizations using *matplotlib* and *seaborn*
+- *Tableau* visualiation to show comparisons by country
+- Python visualization for regression and histogram analysis
+- Linear Regression in Python to draw relationships between categories
+- Cross correlation between other datasets
+- Inferential Statistics to determine if different categories have an effect on the happiness score
+- Random forest categorization to decide whether a tenative country is happy or not
+- Machine learning classification in order to create a model to predict happiness of countries, and find the weight each category holds on determining happiness 
+- Cross correlation between other datasets that we found on Kaggle
+- Final conclusions between what we got and the future steps on how we can expand the project
 
 ## Contributors 
 [Akhil Reddy](https://www.linkedin.com/in/akhilvreddy/) is a junior at the School of Engineering studying Computer Engineering. 
@@ -65,9 +67,9 @@ Infrences based on technology.
 - This finally gave us a clean dataset that we could import into python using pandas. 
 
 ### Tableau Data Visualization
-- Ultized heat maps, bar graphs, scatter plots etc to visual raw data.
-- what are we trying to get from this
-- how is the visuals of tableau helping us
+- Ultized heat maps to visualize the which countries report less happiness and which ones report higher.
+- Charted the comparisons between Alocohol and Life Expectancy in order to find correlation.
+- Looked into Corruption vs Freedom as a scatter plot in order to prove no correlation.
 
 ### Python-based Visualization
 - In jupyter notebook, we imported the cleaned CSV file using pandas's *read_csv* function.
@@ -79,11 +81,13 @@ Infrences based on technology.
 - What does error distance tell us
 - Quadratic regression
 
-### Machine Learning (Decision Trees)
+### Machine Learning (Decision Trees & Random Forest)
 An issue we ran into while understanding the total data sets is how some countries do not have much data about their happiness score and other such things. This might be because there is not much of a way to get good data from these countries. A way we could get tentative data from a country which doesn’t have any data is by using a decision tree. This could tell us if a country is happy or not just based on the qualities about the country like GDP, Population, etc. 
 
 Decision trees are going to help us understand if a country is generally happy/sad and the future trajectory of it.
  
+ ### Machine Learning (Convolution Neural Network)
+When we were going through the Random Forest of multiple Decision Trees, we ran into the issue of not getting a specific value. For example, the Decision Trees only told us whether a tentative country was going to be either generally happy or not. However, we wanted to do better than that. We wanted to use some machine learning techniques that would help us get us a estimated score. This would be nice since we could fill in the gaps to countries that do not have a score. The way we did this was by using PyTorch.
 
 
 ### Correlation Dataset
@@ -106,3 +110,11 @@ Here, we want to answer the three questions that we had in the beginning of the 
 ### Question 4
 
 ### Next Steps
+
+The next steps for the project can be getting a hollistic understanding of how all the countries in the world rank in happiness. The neural network can be made in order to output more country's happiness score and fill in the gaps between places that do not have a score. We will be able to use the random forest decision trees to categorize more countries. 
+
+On the analysis side, we hope to do more statistical testing on some of the data. Running tests such as ____ would be really helpful because it would tell us the ways the data is correlated. 
+
+On a software side, we hope to expand the reach of this project. The goal would be to generalize the testing and data analysis to any generic dataset so that someone could clone this repository in the future and copy the path of their own project and have multiple dashboards and plots on their data. 
+
+In conclusion, we had a great time analyzing and doing a lot of different analysis with data. We loved how this project made us use multiple different tools together in order to get to the final goal. In the future, given a large, messy CSV file, we won't be afraid to tackle it!
