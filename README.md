@@ -51,11 +51,11 @@ Infrences based on technology.
 - Final conclusions between what we got
 
 ## Contributors 
-[Akhil Reddy](https://www.linkedin.com/in/akhilvreddy/) is a junior studying Computer Engineering. 
+[Akhil Reddy](https://www.linkedin.com/in/akhilvreddy/) is a junior at the School of Engineering studying Computer Engineering. 
 
-[Aadya Gadkari](https://www.linkedin.com/in/aadyagadkari/) is a junior studying Biomedical Engineering.
+[Aadya Gadkari](https://www.linkedin.com/in/aadyagadkari/) is a junior at the School of Engineering studying Biomedical Engineering.
 
-[Misaal Singh](https://www.linkedin.com/in/misaal-singh-531a1018b/) is a junior studying Statistics & BAIT.
+[Misaal Singh](https://www.linkedin.com/in/misaal-singh-531a1018b/) is a junior at the Business School studying Statistics & BAIT.
 
 ## Project Itinerary
 
@@ -65,7 +65,7 @@ Infrences based on technology.
 - This finally gave us a clean dataset that we could import into python using pandas. 
 
 ### Tableau Data Visualization
-- how was tableau used
+- Ultized heat maps, bar graphs, scatter plots etc to visual raw data.
 - what are we trying to get from this
 - how is the visuals of tableau helping us
 
@@ -102,3 +102,7 @@ Here, we want to answer the three questions that we had in the beginning of the 
 ### Question 2
 
 ### Question 3
+
+### Question 4
+
+### Next Steps
