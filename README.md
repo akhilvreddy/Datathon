@@ -108,6 +108,7 @@ In this study we conducted a linear regression and correlation analysis between 
 However, of the metrics we measured alcohol consumption of a country holds a lower weight on the happiness of a region, of the metrics we measured alcohol consumption holds the second lowest weight on the happiness of a region. For this metric we used a Random Forest Classifier to predict whether a country was happy or not and the model concluded that alcohol consumption held a 8.29% weight in its predictions. This shows that although alcohol consumption has a correlation towards the happiness of a region, it does not hold massive weight in determining the happiness of a region.
 
 ### Question 3
+From our histogram, we can see an r value of -0.91 meaning that there is very high correlation between lesser emissions and happier people. The reason for this could be that lesser emissions mean that people go outside more or that the place they live in is less indusrtial and more residential. 
 
 ### Question 4
 Machine Learning techniques have been used excessively to statistically predict outcomes based on past data. We used this concept to predict whether a country was happy or not. For this we used classification which groups labeled data into subsets in order to predict categorical data. The classification method that we felt would best predict this model is a random forest classifier which creates several decision trees and averages their output to produce a final output. From this our model predicted outcomes at a .977 percent accuracy rate, which can conclude that we can determine whether they are happy or not.
@@ -115,6 +116,9 @@ Machine Learning techniques have been used excessively to statistically predict 
 ### Next Steps
 
 The next steps for the project can be getting a holistic understanding of how all the countries in the world rank in happiness. The neural network can be made in order to output more country's happiness scores and fill in the gaps between places that do not have a score. We will be able to use the random forest decision trees to categorize more countries.
+
 On the analysis side, we hope to do more statistical testing on some of the data. Running tests such as pearson correlation would be really helpful because it would tell us the ways the data is correlated.
+
 On the software side, we hope to expand the reach of this project. The goal would be to generalize the testing and data analysis to any generic dataset so that someone could clone this repository in the future and copy the path of their own project and have multiple dashboards and plots on their data.
+
 In conclusion, we had a great time analyzing and doing a lot of different analysis with data. We loved how this project made us use multiple different tools together in order to get to the final goal. In the future, given a large, messy CSV file, we won't be afraid to tackle it!
