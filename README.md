@@ -8,6 +8,8 @@ What they are grading us on:
 4) reflection and improvements
 -->
 
+## 11/06 Update - We Ranked #1 and best project overall :)
+
 Final Video Presentation:
 https://youtu.be/TCiNaajMAC4
 
